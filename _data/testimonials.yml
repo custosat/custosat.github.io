@@ -1,16 +1,16 @@
-- name: Rose Ray
-  title: CEO-Themefisher
-  testimonial: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
+- name: John Smith
+  title: Customer on Amazon
+  testimonial: "This is an unreal testimonial. CustoSat's products are awesome."
   image: img/item-img1.jpg
-- name: Rose Ray sr.
-  title: CEO-Themefisher
-  testimonial: "An e-commerce site was created by this company with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
+- name: John Doe
+  title: Another Anonymous person
+  testimonial: "Forget 5-Star. I would rate it 500-Star."
   image: img/item-img1.jpg
-- name: Rose Ray jr.
-  title: CEO-Themefisher
-  testimonial: "With the tools to make our business a success, this company created an e-commerce site, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
+- name: Mary Smith
+  title: John Smith's partner?
+  testimonial: "I am more beautiful than ever more. Blessed with great genes. And greater beauty products."
   image: img/item-img1.jpg
-- name: Rose Ray III
-  title: CEO-Themefisher
-  testimonial: "We feel that our site has unique elements that make us stand out from the crowd. This company created an e-commerce site with the tools to make our business a success, with innovative ideas."
+- name: Jane Doe
+  title: Need we say?
+  testimonial: "My tiny tot is my life. And that is why I love TeenieTot products.."
   image: img/item-img1.jpg
