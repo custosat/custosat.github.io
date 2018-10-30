@@ -4769,8 +4769,8 @@ select[multiple].input-group-sm>.input-group-btn>.btn {
 
 .navbar-brand>img {
     display: block;
-        max-width: 60%;
-        max-height: 60%
+        max-width: 40%;
+        max-height: 40%
 }
 
 @media (min-width:768px) {
