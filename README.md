@@ -1,3 +1,3 @@
-# _Airspace_ for Jekyll
+# _CustoSat_ Github Pages Website
 
-This is an attribution for Airspace for Jekyll, a port of ThemeFisher's Airspace template. It is released under ThemeFisher's free license, which requires attribution.
+This is the repo that contains the source for CustoSat.com website.
